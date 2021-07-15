@@ -1,0 +1,6 @@
+This is first test file and named as TestFile1.txt
+
+This file is cloned from remote repository to local repository.
+I made this change form my local repository through GitBash.
+
+This edition is done on file of local repository. This file was pulled from remote repository and pushed to remote repository after edit. But, now I edit this additional code in the file of local repository. After aditi I again pushed it to remote repository. I delete the last line and added this line. This is considered as code. 
